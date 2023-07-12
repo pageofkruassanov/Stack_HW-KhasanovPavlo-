@@ -18,7 +18,7 @@ int main()
 	int lastIndex = 0;
 
 	/*Stack st1(50);*/
-	Stack st2(30);
+	MyStack::Stack st2(30);
 	/*Stack st3(30);
 	char str1[50] = "{(3 + 22) * ((11 - 8) + (1001 - 9)) / [10 - 10]};";*/
 	char str2[17] = "[99} + (88 - 4);";

@@ -1,5 +1,5 @@
 #include "Stack.h"
-
+using namespace MyStack;
 Stack::Stack(unsigned int maxSize)
 {
 	this->maxSize = maxSize;
